@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/PawanKumar8877/PawanKumar8877/main/assets/banner.png" width="100%" />
 
 # Hi 👋, I'm Pawan Kumar
 
